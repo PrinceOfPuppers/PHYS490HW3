@@ -1,0 +1,9 @@
+*
+!data
+!main.py
+!.gitignore
+!README.md
+!config.py
+!hopfieldNet.py
+!outputs
+!helperFuncs.py
