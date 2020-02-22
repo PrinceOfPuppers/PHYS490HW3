@@ -3,7 +3,6 @@ import argparse as ap
 import numpy as np
 from math import log
 from hopfieldNet import Hfn
-from chainNet import CyclicChainNet as ccn
 from helperFuncts import stateToStateNumber,stateNumberToState,saveDictToTxt,graphList
 from config import Config
 
