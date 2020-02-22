@@ -1,9 +1,2 @@
-*
-!data/
-!main.py
-!.gitignore
-!README.md
-!config.py
-!hopfieldNet.py
-!outputs/
-!helperFuncs.py
+__pycache__/
+PROBLEM STATEMENT.txt
